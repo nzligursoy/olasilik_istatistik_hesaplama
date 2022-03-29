@@ -1,3 +1,5 @@
+# Olasılık ve İstatistik Hesaplama
+Olasılık ve İstatistik Hesaplamaları Yapan Web Sitesi
 
 ## Uygulama Bağlantısı
   Uygulamaya [buradan](http://istatistikhesaplama.coolpage.biz/) erişebilirsiniz.
